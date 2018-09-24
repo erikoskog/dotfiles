@@ -8,4 +8,4 @@
 
 ``` git clone --bare https://github.com/erikoskog/dotfiles.git $HOME/.myconfig ```
 
-```config checkout 
+``` config checkout ```
