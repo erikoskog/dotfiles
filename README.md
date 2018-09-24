@@ -7,3 +7,5 @@
 ``` echo ".myconfig" >> .gitignore ```
 
 ``` git clone --bare https://github.com/erikoskog/dotfiles.git $HOME/.myconfig ```
+
+```config checkout 
