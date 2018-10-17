@@ -27,9 +27,9 @@ set cursorline
 set t_Co=256
 set background=dark
 
-if (has("termguicolors"))
-    set termguicolors
-endif
+" if (has("termguicolors"))
+"    set termguicolors
+" endif
 
 colorscheme solarized
 " syntax enable
