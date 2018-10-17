@@ -15,6 +15,7 @@ set tabstop=4 " Number of visual spaces per tab
 set shiftwidth=4
 set smarttab
 set expandtab
+set smartindent
 
 " Always display the status line
 set laststatus=2
